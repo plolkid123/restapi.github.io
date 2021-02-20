@@ -1,0 +1,54 @@
+[
+    {
+        "name" : "Kevin",
+        "Unit" : "Comp1000"
+    },
+    {
+        "name" : "Aladin",
+        "Unit" : "Psyc1010"
+    },
+    {
+        "name" : "James",
+        "Unit" : "COMP1010"
+    },
+    {
+        "name" : "Samanth",
+        "Unit" : "Eng100"
+    },
+    {
+        "name" : "Harry",
+        "Unit" : "COMP2020"
+    },
+    {
+        "name" : "Berlin",
+        "Unit" : "Mech1200"
+    },
+    {
+        "name" : "Ashley",
+        "Unit" : "COMP1300"
+    },
+    {
+        "name" : "Banty",
+        "Unit" : "COMP247"
+    },
+    {
+        "name" : "Lampard",
+        "Unit" : "COMP450"
+    },
+    {
+        "name" : "Labu",
+        "Unit" : "Physics"
+    },
+    {
+        "name" : "Harley",
+        "Unit" : "COMP1010"
+    },
+    {
+        "name" : "Runa",
+        "Unit" : "COMP3000"
+    },
+    {
+        "name" : "Pauline",
+        "Unit" : "COMP1700"
+    }  
+]
